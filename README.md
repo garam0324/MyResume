@@ -2,7 +2,7 @@
 > 2004.03.17 | 단국대학교 사이버보안학과(2023.03 ~ 재학 중)<br>
 > 010-2048-6646 | rlb040317@gmail.com | [🔗git-hub](https://github.com/garam0324)
 
-<img src="./프로필.jpg" width="250" alt="프로필 사진" align="right">
+<img src="./프로필.jpg" width="150" alt="프로필 사진" align="right">
 
 <h3 align="center"> 시스템의 틈에서 배움을 발견하고, 그 경험을 더 나은 보안으로 연결합니다.</h3>
 <p align="center">
