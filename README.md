@@ -51,7 +51,7 @@
 ## PROJECT
 | 기간 | 프로젝트명 | 역할 | 성과 |
 | :---: | :---: | :---: | :---: |
-| 2025.10<br>~<br>진행 중 | **랜섬웨어 대응 FUSE 파일시스템 개발**<br>(C, FUSE)<br><br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/garam0324/RansomWAR_BLUE01) | • 파일시스템 아키텍처 설계<br>• `unlink`, `read` 콜백 구현<br>• 로그 기능 구현 | • 파일 삭제 요청의 rate-limit 설계로 오탐률 감소<br>• 미허가된 파일 읽기 요청 시 FAKE_DATA 반환으로 정보 유출 방지<br>• 멀티스레드 로그 관리 모듈 구현으로 실시간 이벤트 처리 성능 향상 |
+| 2025.10<br>~<br>진행 중 | **랜섬웨어 대응 FUSE 파일시스템 개발**<br>(C, FUSE)<br><br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/garam0324/RansomWAR_BLUE01) [![Notion](https://img.shields.io/badge/Notion-E5E5E5?style=flat-square&logo=notion&logoColor=000000)](https://www.notion.so/RansomWAR-BLUE01-RansomShiled-1a346e976de948d886bc60b37a2f7689) | • 파일시스템 아키텍처 설계<br>• `unlink`, `read` 콜백 구현<br>• 로그 기능 구현 | • 파일 삭제 요청의 rate-limit 설계로 오탐률 감소<br>• 미허가된 파일 읽기 요청 시 FAKE_DATA 반환으로 정보 유출 방지<br>• 멀티스레드 로그 관리 모듈 구현으로 실시간 이벤트 처리 성능 향상 |
 | 2025.11 | **LD_PRELOAD 기반 MBR 보호 PoC 구현**<br>(C)<br><br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/garam0324/MBRlocker_LDPRELOAD) | • MBR locker 어셈블리 코드 분석<br>• `fopen`, `fwrite`, `system` 훅 구현<br>• 공격 페이로드 추출 및 분석 | • MBR/블록디바이스(dev/sd*) 대상의 쓰기·재부팅 시도 차단·우회하여 데이터 손상 방지<br>• 정적·동적 분석을 통해 행위 시그니처 도출 | 
 | 기간 | 이름 | 역할 | 성과 |
 
