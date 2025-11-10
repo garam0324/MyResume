@@ -13,3 +13,13 @@
 이런 경험을 통해 개발자의 관점에서 시스템을 분석하고 안전한 코드 설계를 이해함으로써,<br>
 <b>기능과 보안이 공존하는 균형 잡힌 시스템을 설계하는 보안 전문가</b>로 성장하고자 합니다.
 </p>
+
+---
+
+## Skills
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
