@@ -49,6 +49,7 @@
 ---
 
 ## PROJECT
+> 배지를 클릭하면 프로젝트 상세 페이지로 이동합니다.
 - **랜섬웨어 대응 FUSE 파일시스템 개발 (2025.10 ~ 진행 중)** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/garam0324/RansomWAR_BLUE01) [![Notion](https://img.shields.io/badge/Notion-F2F2F2?style=flat-square&logo=notion&logoColor=000000)](https://www.notion.so/RansomWAR-BLUE01-RansomShiled-1a346e976de948d886bc60b37a2f7689)
   * C, FUSE
   * 역할
