@@ -13,6 +13,13 @@
 이런 경험을 통해 개발자의 관점에서 시스템을 분석하고 안전한 코드 설계를 이해함으로써,<br>
 <b>기능과 보안이 공존하는 균형 잡힌 시스템을 설계하는 보안 전문가</b>로 성장하고자 합니다.
 </p>
+<br>
+
+- 내용
+
+- 내용
+
+- 내용
 
 ---
 
@@ -38,3 +45,29 @@
 ![FUSE](https://img.shields.io/badge/FUSE-2C2D72?style=for-the-badge&logo=linux&logoColor=white)
 ![Volatility](https://img.shields.io/badge/Volatility-0A66C2?style=for-the-badge&logo=gnome-terminal&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+## PROJECT
+| 기간 | 프로젝트명 | 역할 | 성과 |
+| :---| :---: | :---: |---: |
+| 기간 | 이름 | 역할 | 성과 |
+| 기간 | 이름 | 역할 | 성과 | 
+| 기간 | 이름 | 역할 | 성과 |
+
+---
+
+## Activity
+| 기간 | 활동명 | 역할 | 성과 |
+| :---| :---: | :---: |---: |
+| 기간 | 활동명 | 역할 | 성과 |
+| 기간 | 활동명 | 역할 | 성과 |
+| 기간 | 활동명 | 역할 | 성과 |
+
+---
+
+## Experience
+| 기간 | 기관명 | 업무 |
+| :---| :---: |---: |
+| 기간 | 기관명 | 업무 |
+| 기간 | 기관명 | 업무 |
