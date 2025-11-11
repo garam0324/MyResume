@@ -69,7 +69,7 @@
   * C
   * 구현
     + MBR locker 어셈블리 코드 분석
-    + `fopen`, `fwrite`, `system` 훅 구현
+    + LD_PRELOAD 기반 `fopen`, `fwrite`, `system` 훅 구현
     + 공격 페이로드 추출 및 분석
   * 성과
     + MBR/블록디바이스(dev/sd*) 대상의 쓰기·재부팅 시도 차단·우회하여 데이터 손상 방지
