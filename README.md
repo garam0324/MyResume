@@ -147,4 +147,6 @@
 
 ---
 
-**Last Updated : 2025.11.12**
+<p align="right">
+<b>Last Updated : 2025.11.12</b>
+</p>
