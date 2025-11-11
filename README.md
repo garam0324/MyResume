@@ -52,7 +52,7 @@
 > 배지를 클릭하면 프로젝트 상세 페이지로 이동합니다.
 - **랜섬웨어 대응 FUSE 파일시스템 개발 (2025.10 ~ 진행 중)** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/garam0324/RansomWAR_BLUE01) [![Notion](https://img.shields.io/badge/Notion-F2F2F2?style=flat-square&logo=notion&logoColor=000000)](https://www.notion.so/RansomWAR-BLUE01-RansomShiled-1a346e976de948d886bc60b37a2f7689)
   * C, FUSE
-  * 역할
+  * 구현
     + 파일시스템 아키텍처 설계
     + `unlink`, `read` 콜백 구현
     + 로그 기능 구현
@@ -63,7 +63,7 @@
 
 - **LD_PRELOAD 기반 MBR 보호 PoC 구현 (2025.11)** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/garam0324/MBRlocker_LDPRELOAD)
   * C
-  * 역할
+  * 구현
     + MBR locker 어셈블리 코드 분석
     + `fopen`, `fwrite`, `system` 훅 구현
     + 공격 페이로드 추출 및 분석
@@ -73,7 +73,7 @@
    
 - **텔레그램 봇 기반 후방 감지 시스템 (2025.06)** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/garam0324/MBRlocker_LDPRELOAD)
   * Python, Raspberry Pi
-  * 역할
+  * 구현
     + 하드웨어 및 회로 설계
     + `/start`, `/backward`, `/stop` 명령어를 통한 명령 처리 로직 설계
     + 실시간 후방 감지 시스템 구현 (거리 측정, LED 경고, 카메라 실시간 촬영 + 사진 전송)
