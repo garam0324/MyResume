@@ -75,7 +75,7 @@
     + MBR/블록디바이스(dev/sd*) 대상의 쓰기·재부팅 시도 차단·우회하여 데이터 손상 방지
     + 정적·동적 분석을 통해 행위 시그니처 도출
    
-- **텔레그램 봇 기반 후방 감지 시스템 (2025.06)** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/garam0324/MBRlocker_LDPRELOAD)
+- **텔레그램 봇 기반 후방 감지 시스템 (2025.06)** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/garam0324/Rear_Detection_System)
   * Python, Raspberry Pi
   * 구현
     + 하드웨어 및 회로 설계
@@ -85,6 +85,18 @@
     + Telegram 명령어를 통한 원격 후방 감지 및 실시간 시각 피드백 
     + LED 점멸 속도, 카메라 촬영, 경고 메시지 전송 등 기능을 비동기로 통합해 실시간성 확보
     + 후속 개선 방향으로 실시간 영상 스트리밍, 거리 기반 경고 주기 조절, 명령어 자동 복구 기능 제안
+
+- **간단한 랜섬웨어 구현 (2024.11)** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/garam0324/Ransomware)
+  * C
+  * 구현
+    + 멀티스레드 파일 처리 구조 설계
+    + `./target` 디렉토리 하위 파일을 순회하여 확장자 기반 필터링으로 대상 파일 선별
+    + 헤더 기반 마스크(XOR) + AES로 마스크 암호화하는 경량 암복호화 루틴 구현
+    + 암/복호화 모듈 분리 및 재사용성 확보
+  * 성과
+    + 병렬 처리로 파일 타입별 동시 작업 가능 -> 전체 처리 시간 단축
+    + 키 재사용 없이 각 파일마다 서로 다른 랜덤 마스크를 사용해 단순한 패턴 공격 난이도 상승
+    + 로그 출력으로 암호화/복호화 결과 확인 가능
 
 ---
 
