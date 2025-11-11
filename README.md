@@ -44,27 +44,20 @@
 
 ## PROJECT
 > 배지를 클릭하면 프로젝트 상세 페이지로 이동합니다.
-<details>
-<summary><b>랜섬웨어 대응 FUSE 파일시스템 개발 (2025.10 ~ 진행 중)</b> 🔽</summary>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/garam0324/RansomWAR_BLUE01)
-[![Notion](https://img.shields.io/badge/Notion-F2F2F2?style=flat-square&logo=notion&logoColor=000000)](https://www.notion.so/RansomWAR-BLUE01-RansomShiled-1a346e976de948d886bc60b37a2f7689)
-
-* C, FUSE  
-* 역할  
-  + 파일 헤더 기반 시그니처 검사  
-  + 엔트로피 기반 이상징후 탐지  
-  + 대량 파일 삭제 요청 차단  
-  + 미허가된 파일 읽기 요청 시 FAKE_DATA 반환  
-  + 스냅샷 기능 구현  
-  + 로깅 기능 구현  
-* 성과  
-  + 확장자 위조 및 암호화 시도를 실시간으로 식별·차단  
-  + 스냅샷 기능을 통한 데이터 복구 가능성 확보  
-  + 민감 데이터 노출 방지  
-  + 멀티스레드 로그 관리 모듈 구현으로 실시간 이벤트 처리 성능 향상  
-
-</details>
+- **랜섬웨어 대응 FUSE 파일시스템 개발 (2025.10 ~ 진행 중)** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/garam0324/RansomWAR_BLUE01) [![Notion](https://img.shields.io/badge/Notion-F2F2F2?style=flat-square&logo=notion&logoColor=000000)](https://www.notion.so/RansomWAR-BLUE01-RansomShiled-1a346e976de948d886bc60b37a2f7689)
+  * C, FUSE
+  * 역할
+    + 파일 헤더 기반 시그니처 검사
+    + 엔트로피 기반 이상징후 탐지
+    + 대량 파일 삭제 요청 차단
+    + 미허가된 파일 읽기 요청 시 FAKE_DATA 반환
+    + 스냅샷 기능 구현
+    + 로깅 기능 구현
+  * 성과
+    + 확장자 위조 및 암호화 시도를 실시간으로 식별·차단
+    + 스냅샷 기능을 통한 데이터 복구 가능성 확보
+    + 민감 데이터 노출 방지
+    + 멀티스레드 로그 관리 모듈 구현으로 실시간 이벤트 처리 성능 향상
 
 - **LD_PRELOAD 기반 MBR 보호 PoC 구현 (2025.11)** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/garam0324/MBRlocker_LDPRELOAD)
   * C
