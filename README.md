@@ -86,7 +86,7 @@
     + LED 점멸 속도, 카메라 촬영, 경고 메시지 전송 등 기능을 비동기로 통합해 실시간성 확보
     + 후속 개선 방향으로 실시간 영상 스트리밍, 거리 기반 경고 주기 조절, 명령어 자동 복구 기능 제안
    
- - **Pandas 기반 공공 Wi-Fi 설치와 효율성 분석 (2024.12)** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/garam0324/DataScience_Wifi)
+- **Pandas 기반 공공 Wi-Fi 설치와 효율성 분석 (2024.12)** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/garam0324/DataScience_Wifi)
   * Python
   * 역할
     + 서울시 공공데이터 4종(공공 Wi-Fi 사용량·설치 위치·인터넷 이용시간·인구 밀도) 수집
