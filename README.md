@@ -70,6 +70,17 @@
   * 결과
     + MBR/블록디바이스(dev/sd*) 대상의 쓰기·재부팅 시도 차단·우회하여 데이터 손상 방지
     + 정적·동적 분석을 통해 행위 시그니처 도출
+   
+- **텔레그램 봇 기반 후방 감지 시스템 (2025.06)** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/garam0324/MBRlocker_LDPRELOAD)
+  * Python, Raspberry Pi
+  * 역할
+    + 하드웨어 및 회로 설계
+    + `/start`, `/backward`, `/stop` 명령어를 통한 명령 처리 로직 설계
+    + 실시간 후방 감지 시스템 구현 (거리 측정, LED 경고, 카메라 실시간 촬영 + 사진 전송)
+  * 결과
+    + Telegram 명령어를 통한 원격 후방 감지 및 실시간 시각 피드백 
+    + LED 점멸 속도, 카메라 촬영, 경고 메시지 전송 등 기능을 비동기로 통합해 실시간성 확보
+    + 후속 개선 방향으로 실시간 영상 스트리밍, 거리 기반 경고 주기 조절, 명령어 자동 복구 기능 제안
 
 ---
 
