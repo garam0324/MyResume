@@ -85,6 +85,19 @@
     + Telegram 명령어를 통한 원격 후방 감지 및 실시간 시각 피드백 
     + LED 점멸 속도, 카메라 촬영, 경고 메시지 전송 등 기능을 비동기로 통합해 실시간성 확보
     + 후속 개선 방향으로 실시간 영상 스트리밍, 거리 기반 경고 주기 조절, 명령어 자동 복구 기능 제안
+   
+ - **Pandas 기반 공공 Wi-Fi 설치와 효율성 분석 (2024.12)** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/garam0324/DataScience_Wifi)
+  * Python
+  * 역할
+    + 서울시 공공데이터 4종(공공 Wi-Fi 사용량·설치 위치·인터넷 이용시간·인구 밀도) 수집
+    + `pandas` 기반 데이터 병합 및 이상치 제거
+    + 상관분석으로 변수 간 관계 규명
+    + 정규성·등분산성·집단 간 차이 검정 수행 및 절사평균 계산
+    + 선형·막대·상자·산점도 그래프 및 트리맵, 버블 차트 구현
+    + 서울시 공공 Wi-Fi 설치 위치와 사용량을 지도 시각화
+  * 성과
+    + 데이터 기반 도시 통신 인프라 효율성 진단
+    + 고효율 지역(양천구) vs 저효율 지역(강서구) 비교를 통해 설치 정책 개선 방향 제시
 
 - **간단한 랜섬웨어 구현 (2024.11)** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/garam0324/Ransomware)
   * C
