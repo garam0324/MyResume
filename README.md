@@ -73,14 +73,14 @@
 
 ---
 
-## Activity
+## ACTIVITY
 - **활동명 (기간)**
   * 활동 내용
   * 배운 점
 
 ---
 
-## Experience
+## EXPERIENCE
 - **기관명 (기간)**
   * 업무
   * 배운 점 
