@@ -31,14 +31,11 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![ADB](https://img.shields.io/badge/ADB-2196F3?style=for-the-badge&logo=android&logoColor=white)
+![Frida](https://img.shields.io/badge/Frida-DB3552?style=for-the-badge&logo=frida&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-0A66C2?style=for-the-badge&logo=gnome-terminal&logoColor=white)
 
 ### Database
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Framework & Library
-![FUSE](https://img.shields.io/badge/FUSE-2C2D72?style=for-the-badge&logo=linux&logoColor=white)
-![Volatility](https://img.shields.io/badge/Volatility-0A66C2?style=for-the-badge&logo=gnome-terminal&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
